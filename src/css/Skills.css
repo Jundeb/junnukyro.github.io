@@ -1,0 +1,130 @@
+.skills{
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 700px;
+    border-bottom: 2px solid white;
+    padding-top: 4rem;
+    margin-top: -4rem;
+}
+
+.skills-content{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-top: 1.5rem;
+    padding-bottom: 3rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+.skills-content h1{
+    color: white;
+    padding-bottom: 1.5rem;
+}
+
+.skills-row{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-bottom: 2rem;
+    color: white;
+}
+
+.icon-react{
+    background-image: url(../images/react.png);
+    background-repeat: no-repeat;
+    background-attachment: local;
+    background-position: center center;
+    background-size: contain;
+    width: 4rem;
+    height: 4rem;
+    margin-right: 1.5rem;
+}
+
+.icon-java{
+    background-image: url(../images/java.png);
+    background-repeat: no-repeat;
+    background-attachment: local;
+    background-position: center center;
+    background-size: contain;
+    width: 4rem;
+    height: 4rem;;
+    margin-right: 1.5rem;
+}
+
+.icon-c{
+    background-image: url(../images/c.png);
+    background-repeat: no-repeat;
+    background-attachment: local;
+    background-position: center center;
+    background-size: contain;
+    width: 4rem;
+    height: 4rem;
+    margin-right: 1.5rem;
+}
+
+.icon-figma{
+    background-image: url(../images/figma.png);
+    background-repeat: no-repeat;
+    background-attachment: local;
+    background-position: center center;
+    background-size: contain;
+    width: 4rem;
+    height: 4rem;
+    margin-right: 1.5rem;
+}
+
+.icon-unity{
+    background-image: url(../images/unity.png);
+    background-repeat: no-repeat;
+    background-attachment: local;
+    background-position: center center;
+    background-size: contain;
+    width: 4rem;
+    height: 4rem;
+    margin-right: 1.5rem;
+}
+
+.icon-blender{
+    background-image: url(../images/blender.png);
+    background-repeat: no-repeat;
+    background-attachment: local;
+    background-position: center center;
+    background-size:contain;
+    width: 4rem;
+    height: 4rem;
+    margin-right: 1.5rem;
+}
+
+.white-bar{
+    width: 5rem;
+    height: 1.5rem;
+    border-radius: 1rem 1rem 1rem 1rem;
+    margin-top: 1.5rem;
+    margin-right: 0.5rem;
+    background-color: white;
+    box-shadow: 0 0 5px 1px rgb(0, 238, 255);
+}
+
+.gray-bar{
+    width: 5rem;
+    height: 1.5rem;
+    border-radius: 1rem 1rem 1rem 1rem;
+    margin-top: 1.5rem;
+    margin-right: 0.5rem;
+    background-color: rgb(124, 124, 124);
+} 
+
+@media screen and (max-width: 450px){
+    .white-bar{
+        width: 4rem;
+        height: 1rem;
+        margin-top: 1.6em;
+    }
+    
+    .gray-bar{
+        width: 4rem;
+        height: 1rem;
+        margin-top: 1.6rem;
+    } 
+}
