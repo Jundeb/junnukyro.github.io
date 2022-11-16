@@ -1,9 +1,10 @@
 import './css/App.css';
-import NavBar from './NavBar';
-import Hero from './Hero';
-import AboutMe from './AboutMe';
-import Skills from './Skills';
-import Portfolio from './Portfolio';
+import NavBar from './components/NavBar';
+import Hero from './components/Hero';
+import AboutMe from './components/AboutMe';
+import Skills from './components/Skills';
+import Portfolio from './components/Portfolio';
+import Footer from './components/Footer';
 
 const App = () => {
   return (
@@ -18,7 +19,7 @@ const App = () => {
         <Portfolio />
       </main>
       <footer>
-        
+        <Footer />
       </footer>
     </div>
   );
