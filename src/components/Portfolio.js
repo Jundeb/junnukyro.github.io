@@ -23,6 +23,23 @@ const Portfolio = () => {
                         </div>
                     </div>
                     <div className='portfolio-card'>
+                        <div className='card-image-visualization'></div>
+                        <div className='card-text'>
+                            <h1>Web application</h1>
+                            <p>React | Node.js | MongoDB</p>
+                            <p>(School group project)</p>
+                            <p>Projects idea was to create a visualization tool, which shows different types of graphs about climate change. It is also possible to create a user, which you can use to create your own custom visualization views and share them with unique URLs.</p>
+                        </div>
+                        <div className='card-links'>
+                            <div className='card-link'>
+                                <a href='https://group5-visualizationtool-gbn4.onrender.com/' target="_blank">VISIT</a>
+                            </div>
+                            <div className='card-link'>
+                                <a href='https://github.com/Jundeb/Autumn-2022-group-project' target="_blank">CODE</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div className='portfolio-card'>
                         <div className='card-image-bankautomat'></div>
                         <div className='card-text'>
                             <h1>Bankautomat</h1>
