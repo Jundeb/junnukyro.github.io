@@ -5,10 +5,9 @@ const AboutMe = () => {
         <div id='about' className='about'>
             <div className='about-content'>
             <h1>About Me</h1>
-            <p>I am a second year software engineer student at the Oulu University of Applied Sciences. <br /><br />
-            I am eagerly learning new things on software developing/engineering field and right now I am very interested on UI/UX desing and development. I build this portfolio website for showing my projects and telling a bit about myself.</p> 
-            </div>
-            
+            <p>I am a third-year Software Engineer student at the Oulu University of Applied Sciences.<br /><br />
+            At the moment I am interested in web design/development and therefore I am eagerly learning new things in this field. I add all my interesting projects here so it is more easy to see what projects I have done and been part of.</p> 
+            </div>    
         </div>
     );
 }
