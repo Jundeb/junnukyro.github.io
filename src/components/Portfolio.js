@@ -23,6 +23,23 @@ const Portfolio = () => {
                         </div>
                     </div>
                     <div className='portfolio-card'>
+                        <div className='card-image-gamestore'></div>
+                        <div className='card-text'>
+                            <h1>GameStoreApp</h1>
+                            <p>React Native | Firebase</p>
+                            <p>(School group project)</p>
+                            <p>Projects idea was to create a mobile game store app in which users can browse, filter, search and buy games using their mobile devices.</p>
+                        </div>
+                        <div className='card-links'>
+                            <div className='card-link'>
+                                <a href='https://www.youtube.com/watch?v=bO8OB8lTldI' target="_blank">VIDEO</a>
+                            </div>
+                            <div className='card-link'>
+                                <a href='https://github.com/Jundeb/Spring-2023-group-project' target="_blank">CODE</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div className='portfolio-card'>
                         <div className='card-image-visualization'></div>
                         <div className='card-text'>
                             <h1>Web application</h1>

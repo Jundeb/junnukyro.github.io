@@ -57,6 +57,16 @@
     height: 17rem;
 }
 
+.card-image-gamestore {
+    background-image: url(../images/GameStore.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+    border-radius: 0.5rem 0.5rem 0 0;
+    width: 100%;
+    height: 20rem;
+}
+
 .card-image-bankautomat {
     background-image: url(../images/Bankautomat.jpg);
     background-repeat: no-repeat;
