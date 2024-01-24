@@ -7,22 +7,6 @@ const Portfolio = () => {
                 <h1>PORTFOLIO</h1>
                 <div className='portfolio-cards'>
                     <div className='portfolio-card'>
-                        <div className='card-image-webbank'></div>
-                        <div className='card-text'>
-                            <h1>Webbank</h1>
-                            <p>React | Node.js | MongoDB</p>
-                            <p>Projects idea was to create a webbank in which users can browse their accounts balances, transactions and transfer money to other accounts. Also users can update their personal information, change password and create a credit account. <br /><br /> Use this account for direct access to webbank:<br /> Username: Jannu<br /> Password: Jannu1!</p>
-                        </div>
-                        <div className='card-links'>
-                            <div className='card-link'>
-                                <a href='https://webbank-bfki.onrender.com/login' target="_blank">VISIT</a>
-                            </div>
-                            <div className='card-link'>
-                                <a href='https://github.com/Jundeb/Summer-2022-project' target="_blank">CODE</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div className='portfolio-card'>
                         <div className='card-image-gamestore'></div>
                         <div className='card-text'>
                             <h1>GameStoreApp</h1>
@@ -36,6 +20,39 @@ const Portfolio = () => {
                             </div>
                             <div className='card-link'>
                                 <a href='https://github.com/Jundeb/Spring-2023-group-project' target="_blank">CODE</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div className='portfolio-card'>
+                        <div className='card-image-earntofly'></div>
+                        <div className='card-text'>
+                            <h1>EarnToFly</h1>
+                            <p>Unity | C# | Blender</p>
+                            <p>(School group project)</p>
+                            <p>Our mobile game draws inspiration from popular titles like Learn to Fly, Hill Climb Racing, and Earn to Die. The main idea of our game is a race around the world. The player plays the role of the "good" character, pitted against the "bad" character controlled by the NPC. The bad character strategically deploys obstacles and enemies to impede your progress and thwart your goal. As you traverse a variety of environments, each representing different countries and climates, your mission is to conquer these challenges and emerge victorious in the race.</p>
+                        </div>
+                        <div className='card-links'>
+                            <div className='card-link'>
+                                <a href='https://www.youtube.com/watch?v=P-jggPhbhis' target="_blank">VIDEO</a>
+                            </div>
+                            <div className='card-link'>
+                                <a href='https://github.com/Jundeb/EarnToFly' target="_blank">CODE</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div className='portfolio-card'>
+                        <div className='card-image-webbank'></div>
+                        <div className='card-text'>
+                            <h1>Webbank</h1>
+                            <p>React | Node.js | MongoDB</p>
+                            <p>Projects idea was to create a webbank in which users can browse their accounts balances, transactions and transfer money to other accounts. Also users can update their personal information, change password and create a credit account. <br /><br /> Use this account for direct access to webbank:<br /> Username: Jannu<br /> Password: Jannu1!</p>
+                        </div>
+                        <div className='card-links'>
+                            <div className='card-link'>
+                                <a href='https://webbank-bfki.onrender.com/login' target="_blank">VISIT</a>
+                            </div>
+                            <div className='card-link'>
+                                <a href='https://github.com/Jundeb/Summer-2022-project' target="_blank">CODE</a>
                             </div>
                         </div>
                     </div>

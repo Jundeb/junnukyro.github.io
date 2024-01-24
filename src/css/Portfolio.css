@@ -87,6 +87,16 @@
     height: 17rem;
 }
 
+.card-image-earntofly {
+    background-image: url(../images/EarnToFly.png);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+    border-radius: 0.5rem 0.5rem 0 0;
+    width: 100%;
+    height: 20rem;
+}
+
 .card-text {
     padding-right: 2rem;
     padding-left: 2rem;

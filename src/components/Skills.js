@@ -9,14 +9,14 @@ const Skills = () => {
                     <h2>Most Experience</h2>
                     <div className='line'></div>
                     <p>
-                        React.js, JavaScript, Node.js, Bootstrap, CSS, HTML, Express.js, MongoDB, Figma, git
+                        React.js, C#, SQL, JavaScript, Node.js, Blender, Unity, Bootstrap, CSS, HTML, MongoDB
                     </p>
                 </div>
                 <div className='experience'>
                     <h2>Some Experience</h2>
                     <div className='line'></div>
                     <p>
-                        Java, C++, C,  SQL, Cypress,  Jest, Unity, Blender, AWS, Firebase, ReqEx
+                        Java, C++, Cypress,  Jest, AWS,  Figma, Firebase, ReqEx, git
                     </p>
                 </div>
             </div>
