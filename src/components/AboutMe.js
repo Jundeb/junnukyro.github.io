@@ -1,15 +1,24 @@
-import '../css/AboutMe.css';
+import "../css/AboutMe.css";
 
 const AboutMe = () => {
-    return (
-        <div id='about' className='about'>
-            <div className='about-content'>
-            <h1>About Me</h1>
-            <p>I am a third-year Software Engineer student at the Oulu University of Applied Sciences.<br /><br />
-            At the moment I am interested in web design/development and therefore I am eagerly learning new things in this field. I add all my interesting projects here so it is more easy to see what projects I have done and been part of.</p> 
-            </div>    
-        </div>
-    );
-}
+  return (
+    <div id="about" className="about">
+      <div className="about-content">
+        <h1>About Me</h1>
+        <p>
+          I’m a Software Engineering graduate from Oulu University of Applied
+          Sciences and currently working as a Junior Software Engineer. I’m
+          passionate about web development and always eager to learn and grow in
+          the dynamic tech field.
+          <br />
+          <br />
+          In my free time, I enjoy game development, 3D modeling, and exploring
+          UI/UX design. I also work on personal projects to expand my portfolio
+          and challenge myself creatively.
+        </p>
+      </div>
+    </div>
+  );
+};
 
 export default AboutMe;
