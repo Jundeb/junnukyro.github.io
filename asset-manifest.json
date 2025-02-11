@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/mywebsite/static/css/main.87dc1451.css",
-    "main.js": "/mywebsite/static/js/main.ac7fb66f.js",
-    "static/js/787.3379f9fa.chunk.js": "/mywebsite/static/js/787.3379f9fa.chunk.js",
+    "main.css": "/mywebsite/static/css/main.de1da201.css",
+    "main.js": "/mywebsite/static/js/main.5ea2a2e7.js",
+    "static/js/453.8bf1df6b.chunk.js": "/mywebsite/static/js/453.8bf1df6b.chunk.js",
     "static/media/GameStore.png": "/mywebsite/static/media/GameStore.e8c5a8199f0c80b59e12.png",
     "static/media/alta-junnu.jpg": "/mywebsite/static/media/alta-junnu.45ad42dc753ba0ba61be.jpg",
     "static/media/Bankautomat.jpg": "/mywebsite/static/media/Bankautomat.79cbe856b19b94904590.jpg",
@@ -11,12 +11,12 @@
     "static/media/Visualization.png": "/mywebsite/static/media/Visualization.2bb53701dedf93d2284a.png",
     "static/media/webbank.jpg": "/mywebsite/static/media/webbank.3571f1ad7fb1e4c0df2d.jpg",
     "index.html": "/mywebsite/index.html",
-    "main.87dc1451.css.map": "/mywebsite/static/css/main.87dc1451.css.map",
-    "main.ac7fb66f.js.map": "/mywebsite/static/js/main.ac7fb66f.js.map",
-    "787.3379f9fa.chunk.js.map": "/mywebsite/static/js/787.3379f9fa.chunk.js.map"
+    "main.de1da201.css.map": "/mywebsite/static/css/main.de1da201.css.map",
+    "main.5ea2a2e7.js.map": "/mywebsite/static/js/main.5ea2a2e7.js.map",
+    "453.8bf1df6b.chunk.js.map": "/mywebsite/static/js/453.8bf1df6b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.87dc1451.css",
-    "static/js/main.ac7fb66f.js"
+    "static/css/main.de1da201.css",
+    "static/js/main.5ea2a2e7.js"
   ]
 }
